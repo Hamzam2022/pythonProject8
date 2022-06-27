@@ -71,3 +71,159 @@ JavaScript warning: https://il.shein.com/xw5ol632LId3EMEnBq6J/9Vak0L6N/AXwXOCo/O
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1656281627221	geckodriver	INFO	Listening on 127.0.0.1:55505
+1656281630288	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55506" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hamza\\AppData\\Local\\Temp\\rust_mozprofile9l42Kx"
+1656281630606	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55506
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hamza\\AppData\\Local\\Temp\\rust_mozprofile9l42Kx\\search.json.mozlz4", (void 0)))
+1656281632093	Marionette	INFO	Listening on port 55527
+DevTools listening on ws://localhost:55506/devtools/browser/a7b9c37f-fa60-4ec1-9e5a-19e5467a65da
+Read port: 55527
+1656281632153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/assets/core-vendors.3e61d6.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/assets/core-vendors.3e61d6.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://sheinsz.ltwebstatic.com/she_dist/assets/runtime-d654a9.js, line 1: ChunkLoadError: Loading chunk 349 failed.
+(error: https://sheinsz.ltwebstatic.com/she_dist/assets/349.856973.js)
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/assets/core-vendors.3e61d6.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/assets/core-vendors.3e61d6.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/assets/core-vendors.3e61d6.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/assets/core-vendors.3e61d6.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/assets/core-vendors.3e61d6.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/assets/core-vendors.3e61d6.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/assets/core-vendors.3e61d6.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/assets/core-vendors.3e61d6.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/libs/geetest/fullpage.1.1.9.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/assets/core-vendors.3e61d6.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/assets/core-vendors.3e61d6.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://shein.ltwebstatic.com/js/www/flare.0.0.4.o.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinsz.ltwebstatic.com/she_dist/assets/core-vendors.3e61d6.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://il.shein.com/xw5ol632LId3EMEnBq6J/9Vak0L6N/AXwXOCo/O1kCJx/kqHwY, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656281646988	Marionette	INFO	Stopped listening on port 55527
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656319682563	geckodriver	INFO	Listening on 127.0.0.1:61329
+1656319685641	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=414" "--height=896" "--remote-debugging-port" "61330" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hamza\\AppData\\Local\\Temp\\rust_mozprofileZH2T1H"
+1656319686110	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61330
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hamza\\AppData\\Local\\Temp\\rust_mozprofileZH2T1H\\search.json.mozlz4", (void 0)))
+1656319687911	Marionette	INFO	Listening on port 61351
+Read port: 61351
+DevTools listening on ws://localhost:61330/devtools/browser/2b2be740-4bcd-48cb-970d-8c1badc2395f
+1656319687954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/devices/fpv2.1.js, line 1: unreachable code after return statement
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/assets/fingerprintjs2.6f6db9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/assets/fingerprintjs2.6f6db9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/assets/fingerprintjs2.6f6db9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/assets/fingerprintjs2.6f6db9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/assets/fingerprintjs2.6f6db9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/assets/fingerprintjs2.6f6db9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.shein.com/ebybH_ZrPpYQR/rs72EST76Ad-/y8/YEQYtVDG9E/MWFhNw/Zxsv/I0U2IXs, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sheinm.ltwebstatic.com/pwa_dist/libs/geetest/fullpage.1.1.9.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656319702990	Marionette	INFO	Stopped listening on port 61351
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
